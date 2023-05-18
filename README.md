@@ -1,5 +1,6 @@
-# testrepo
-
-## Editing the file
-
-Its a markdown file in this repository.
+#IBM Applied Data Science Capstone Files
+Web-Scrapping with BeautifulSoup
+Data Accessing with SQL along with python
+Working with API using python
+Data Visualization
+Data Preprocessing
